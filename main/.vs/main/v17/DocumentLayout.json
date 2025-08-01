@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dnka\\Downloads\\kursach2025db\\main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E94E8EE2-619D-48F6-8198-664323654E0E}|mainwin\\mainwin.csproj|c:\\users\\dnka\\downloads\\kursach2025db\\main\\mainwin\\mainwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94E8EE2-619D-48F6-8198-664323654E0E}|mainwin\\mainwin.csproj|solutionrelative:mainwin\\mainwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94E8EE2-619D-48F6-8198-664323654E0E}|mainwin\\mainwin.csproj|C:\\Users\\dnka\\Downloads\\kursach2025db\\main\\mainwin\\mainwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E94E8EE2-619D-48F6-8198-664323654E0E}|mainwin\\mainwin.csproj|solutionrelative:mainwin\\mainwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94E8EE2-619D-48F6-8198-664323654E0E}|mainwin\\mainwin.csproj|C:\\Users\\dnka\\Downloads\\kursach2025db\\main\\mainwin\\connectionwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94E8EE2-619D-48F6-8198-664323654E0E}|mainwin\\mainwin.csproj|solutionrelative:mainwin\\connectionwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94E8EE2-619D-48F6-8198-664323654E0E}|mainwin\\mainwin.csproj|C:\\Users\\dnka\\Downloads\\kursach2025db\\main\\mainwin\\connectionwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E94E8EE2-619D-48F6-8198-664323654E0E}|mainwin\\mainwin.csproj|solutionrelative:mainwin\\connectionwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainwin.cs",
+              "DocumentMoniker": "C:\\Users\\dnka\\Downloads\\kursach2025db\\main\\mainwin\\mainwin.cs",
+              "RelativeDocumentMoniker": "mainwin\\mainwin.cs",
+              "ToolTip": "C:\\Users\\dnka\\Downloads\\kursach2025db\\main\\mainwin\\mainwin.cs",
+              "RelativeToolTip": "mainwin\\mainwin.cs",
+              "ViewState": "AgIAAPYBAAAAAAAAAAAwwAoCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:24:09.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "connectionwin.cs",
+              "DocumentMoniker": "C:\\Users\\dnka\\Downloads\\kursach2025db\\main\\mainwin\\connectionwin.cs",
+              "RelativeDocumentMoniker": "mainwin\\connectionwin.cs",
+              "ToolTip": "C:\\Users\\dnka\\Downloads\\kursach2025db\\main\\mainwin\\connectionwin.cs",
+              "RelativeToolTip": "mainwin\\connectionwin.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwIsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:01:56.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mainwin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\dnka\\Downloads\\kursach2025db\\main\\mainwin\\mainwin.cs",
+              "RelativeDocumentMoniker": "mainwin\\mainwin.cs",
+              "ToolTip": "C:\\Users\\dnka\\Downloads\\kursach2025db\\main\\mainwin\\mainwin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "mainwin\\mainwin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:06:25.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "connectionwin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\dnka\\Downloads\\kursach2025db\\main\\mainwin\\connectionwin.cs",
+              "RelativeDocumentMoniker": "mainwin\\connectionwin.cs",
+              "ToolTip": "C:\\Users\\dnka\\Downloads\\kursach2025db\\main\\mainwin\\connectionwin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "mainwin\\connectionwin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:01:53.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
